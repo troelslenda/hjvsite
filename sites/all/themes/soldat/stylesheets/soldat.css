@@ -1,0 +1,26 @@
+#header {
+  background: #fff url('../images/bgtile4.jpg') center bottom;
+}
+#name-and-slogan{
+/*  margin-bottom:50px;*/
+}
+#logo img{
+  height:100px;
+}
+#site-slogan{
+  font-family:inherit;
+  font-style:normal;
+  font-size:1.2em;
+  text-shadow:0 0 10px #000;
+  font-weight:bold;
+  letter-spacing:-1px;
+  margin:0;
+}
+#site-name a{
+  font-weight:bold;
+  text-transform:uppercase;
+  letter-spacing:-4px;
+  font-size:46px;
+  text-shadow:0 0 10px #000;
+  line-height:0.6;
+} 
