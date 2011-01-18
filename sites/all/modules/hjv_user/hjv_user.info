@@ -1,0 +1,6 @@
+core = "7.x"
+description = "Handles the users"
+name = "HJV Users"
+package = "HJV Modules"
+project = "hjv_user"
+version = 7.x-0.1-dev

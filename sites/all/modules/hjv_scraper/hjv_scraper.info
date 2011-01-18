@@ -1,0 +1,6 @@
+core = "7.x"
+description = "Scrapes content from base site"
+name = "HJV HDU Content Scraper"
+package = "HJV Modules"
+project = "hjv_scraper"
+version = 7.x-0.1-dev
